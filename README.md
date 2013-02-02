@@ -3,8 +3,10 @@
   //-----------------------------------------------------------------------
   /*
   
-   This work is licensed under the Creative Commons Attribution-NonCommercial-Repurcusssions 3.0 Unported License. 
-   To view a copy of this license, visit http://www.graffitiresearchlab.fr/?portfolio=attribution-noncommercial-repercussions-3-0-unported-cc-by-nc-3-0
+OriginalGCode is a hardware/software package designed to allow graffiti tags and drawings to be easily captured via a webcam, and export the ensuing shape data to various formats for 2D and 3D fabrication.
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-Repurcusssions 3.0 Unported License. 
+To view a copy of this license, visit http://www.graffitiresearchlab.fr/?portfolio=attribution-noncommercial-repercussions-3-0-unported-cc-by-nc-3-0
   
    ORIGINAL G-CODE
   
